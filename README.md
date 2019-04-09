@@ -1,5 +1,5 @@
 # Howling-Abyss
-League of Legends with Riot API
+League of Legends Machine Learning Project with Riot API
 
 ## README
 *File #0* explain the purpose of this project and write down references.<br>
