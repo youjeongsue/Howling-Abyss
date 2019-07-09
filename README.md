@@ -7,4 +7,7 @@ League of Legends Machine Learning Project with Riot API
 
 ## Imagination
 5 champion -> predict win/lose and percentage -> recommand what is good to roll a dice(predict the possibility of improving odds)<br>
-User recognition -> Get information of previous games, preferred champions and proficiency.(More appropriate recommandation)
+User recognition -> Get information of previous games, preferred champions and proficiency.(More appropriate recommandation)<br><br>
+
+## Pull request test
+test
